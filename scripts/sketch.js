@@ -1,5 +1,5 @@
-let rows = 30;
-let columns = 30;
+let rows = 100;
+let columns = 100;
 let width_cell = 10;
 let height_cell = 10;
 let grid = [];
