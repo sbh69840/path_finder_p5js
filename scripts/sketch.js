@@ -22,7 +22,8 @@ function draw() {
       grid[i*rows+j].display_white();
     }
   }
-  grid[5*rows+5].display_black();
+  grid[mouseY+mouseX].display_black();
+
 
 }
 class cell{
